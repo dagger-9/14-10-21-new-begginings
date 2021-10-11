@@ -4,4 +4,9 @@ dagar
 dagger
 :x
 dd
+git
+github
+github.
+
+txt
 
